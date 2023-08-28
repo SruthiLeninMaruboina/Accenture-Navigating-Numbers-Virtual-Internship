@@ -5,7 +5,8 @@
 This is a virtual internship program case study with the company, Accenture North America. This program is hosted through the site called "Forage". This internship helps you to learn data basics such as data cleaning, modelling, visualization and storytelling.
 
 ### Internship Company:
-!(https://miro.medium.com/v2/resize:fit:828/format:webp/1*GwyiPK2Uqkb64e1gy8k6YA.png)
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*GwyiPK2Uqkb64e1gy8k6YA.png)
+
 Accenture is a leading global professional services company that helps the world's leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services - creating tangible value at speed and scale.
 
 ### Project File:
@@ -95,11 +96,11 @@ In short, the client wanted to see "An analysis of their content categories show
 - Often you won't need all these datasets to find what you're looking for.
 - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 - After Analysis we got data sets needed to complete analysis:
-      Reaction Score(score is used to quantified the popularity)
-      Content ID
-      Reaction Types
-      Content type
-      Category  
+1. Reaction Score(score is used to quantified the popularity)
+2. Content ID
+3. Reaction Types
+4. Content type
+5. Category  
 #### Data Cleaning:
 - removing rows that have values which are missing,
 - changing the data type of some values within a column, and
@@ -114,23 +115,25 @@ After modelling data as a result we have a spreadsheet with cleaned dataset and 
 
 ### Task 3: Data Visualization and Storytelling
 - From a total of 16 different content categories, the top 5 contents include animals, science, healthy eating, technology, and food.
-!(https://miro.medium.com/v2/resize:fit:828/0*AfREiV0ipyh2WOlP)
+![](https://miro.medium.com/v2/resize:fit:828/0*AfREiV0ipyh2WOlP)
 - In terms of percentage share of popularity amongst the top 5 content categories, animals has a popularity percentage share of 21.5%, followed by science with a popularity percentage share of 20.4%, healthy eating and food are in 3rd and 5th place respectively, with each having a popularity percentage share of 19.5% and 19.3% respectively.
-!(https://miro.medium.com/v2/resize:fit:828/0*Opp13lTVJ0XPJpXN)
+![](https://miro.medium.com/v2/resize:fit:828/0*Opp13lTVJ0XPJpXN)
 - Looking at the total number of posts by category we can see that the top 5 content categories are in sequential order with respect to the previous two visuals. animals tops the chart with a total of 1,897 posts, followed by science which has a total of 1,796 posts. In last place is public speaking with a total post of 1,217.
-!(https://miro.medium.com/v2/resize:fit:828/0*twC-TK6vqp3vX9Sd)
+![](https://miro.medium.com/v2/resize:fit:828/0*twC-TK6vqp3vX9Sd)
 - Looking at the total number of posts by content type, photos have the highest posts with a total of 6,589 posts, followed by videos with a total of 6,245 posts, in third place is GIFs with a total of 6,079 posts, and lastly audio with a total of 5,660 posts.
-!(https://miro.medium.com/v2/resize:fit:828/0*Esdj2PqqEgpqD_uM)
+![](https://miro.medium.com/v2/resize:fit:828/0*Esdj2PqqEgpqD_uM)
 - Looking at the total number of posts by sentiment type, we have 13807 positive posts, 7695 negative posts and 3071 neutral posts.
-
-May is the month having the highest number of posts with a total of 2,138 posts, this shows that people post a lot during this period. Other high. Though there is a huge drop in total posts in the month of February with a total of 1,914 posts. From this chart we can see that posts by month undulating (rises and falls).
-
-Looking at the total number of posts by reaction type, heart have the highest posts with a total of 1622 posts, followed by scared with a total of 1,572 posts, in third place is peeking with a total of 1,559 posts.
+![](https://miro.medium.com/v2/resize:fit:828/0*wieOCgXsWGlxHQ_G)
+- May is the month having the highest number of posts with a total of 2,138 posts, this shows that people post a lot during this period. Other high. Though there is a huge drop in total posts in the month of February with a total of 1,914 posts. From this chart we can see that posts by month undulating (rises and falls).
+![](https://miro.medium.com/v2/resize:fit:828/0*Q1yizjpS8JZeGr_j)
+- Looking at the total number of posts by reaction type, heart have the highest posts with a total of 1622 posts, followed by scared with a total of 1,572 posts, in third place is peeking with a total of 1,559 posts.
+![](https://miro.medium.com/v2/resize:fit:828/0*C4wBVIw67tz-3tKa)
 
 #### Final Dashboard:
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Mnj6vDI98h8pqnnoB0U2-Q.png)
 
 ### Task 4: Present to the Client
-Present your powerpoint presentation to the client and deliver the insights of your analysis click here to see the presentation.
+Present your powerpoint presentation to the client and deliver the insights of your analysis [click here to see the presentation.](https://drive.google.com/file/d/1At1MYIVU1DRjmDtMMpCCN4KjSQOY9NBg/view?usp=drive_link)
 
 #### Insight:
 In the top 5 categories food is the common theme with 'Healthy Eating' ranking the highest. This is the indication to the audience within the user base. We suggest you could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
